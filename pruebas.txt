@@ -1,2 +1,4 @@
     Esto es una archivo de prueba, 
-    no recuerdo que mas escribir, hoy es martes.
+    no recuerdo que mas escribir, modificado un miercoles.
+    Esto es sencillo.
+    he terminado ;la clase.
