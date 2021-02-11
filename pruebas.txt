@@ -1,4 +1,3 @@
-    Esto es una archivo de prueba, 
-    no recuerdo que mas escribir, modificado un miercoles.
-    Esto es sencillo.
-    he terminado ;la clase.
+    Esto es una archivo de prueba, decidí hacerlo distinto.
+    Con base en una versión anterior. 
+    No recuerdo que mas escribir, hoy no es martes.
