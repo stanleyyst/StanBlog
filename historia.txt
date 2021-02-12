@@ -2,3 +2,5 @@
     Con base en una versión anterior. 
     No recuerdo que mas escribir, hoy no es martes.
     I've changed the key again, process need to be checked again.
+
+    I've done some changes to files, now this file will be the record of the whole proyect
